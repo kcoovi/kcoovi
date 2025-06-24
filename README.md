@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fun act
+- I’m currently learning R Programming
 
 
 # 📊 GitHub Stats:
