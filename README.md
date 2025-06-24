@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 * I’m currently learning R Programming
 
 
