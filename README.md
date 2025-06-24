@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I’m currently learning R Programming
+* I’m currently learning R Programming
 
 
 # 📊 GitHub Stats:
